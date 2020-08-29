@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS kingdoms(
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    kingdom_name VARCHAR(40) NOT NULL,
+    category_id BIGINT NOT NULL
+)
