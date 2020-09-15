@@ -16,4 +16,4 @@ async def test(ctx):
 
 bot.add_cog(kingdom.Kingdom(bot))
 
-bot.run('NzQ3NzgyMzk0MDA1ODE1Mjk2.X0T4nw.mHJe3vpHOywZSUMtinGwtrXejms')
+bot.run(token)
